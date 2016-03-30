@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        
+        <style> 
+        
+        body{background-image: url(http://paolaelefante.com/wp-content/uploads/2015/10/coding.jpg);}
+        h1{color:white;}
+        body{background-color:green;}
+        h2{color:rgb(255,255,255);}
+        ul{color:white;}
+         #navbar li {
+            float:left;
+            display:inline-block;
+            border:2px solid white;
+            padding:6px;  
+            }
+            
+        #navbar a  {
+        color:white;
+            /*width: 60px;*/
+        }
+        #navbar {
+            list-style-type: none;
+            margin: 20px;
+            /*padding: 0; */
+            }
+        </style>
+        
+        <h1> Parts of a Computer</h1>
+        
+        <ul id="navbar">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="hardware.html">Hardware</a></li>
+        </ul>
+        <br>
+<h2> 
+<img height="150px" src="http://www.trbimg.com/img-5450096b/turbine/la-sp-ln-lakers-byron-scott-kobe-bryant-20141028">
+Kobe byant gets paid 25 million dollars.  He's 37 years old and was in the All Stars 17 times.  He plays for the LA Lakers.</br>
+<img height="150" src="http://www.eurweb.com/wp-content/uploads/2014/04/Joe-Johnston.png"> 
+Joe Johnson gets paid $24,894,863.  He's 34 years old and has been in the All Stars seven times.  He plays for the Brooklyn Nets.</br>
+<img height="150" src="">
+</br>
+
+    </h2>
+    </body>
+</html>l
